@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ewolff.microservice.customer.cdc.CustomerConsumerDrivenContractTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.336 s <<< FAILURE! - in com.ewolff.microservice.customer.cdc.CustomerConsumerDrivenContractTest
+testFindAll(com.ewolff.microservice.customer.cdc.CustomerConsumerDrivenContractTest)  Time elapsed: 0.181 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<0>
+	at com.ewolff.microservice.customer.cdc.CustomerConsumerDrivenContractTest.testFindAll(CustomerConsumerDrivenContractTest.java:28)
+

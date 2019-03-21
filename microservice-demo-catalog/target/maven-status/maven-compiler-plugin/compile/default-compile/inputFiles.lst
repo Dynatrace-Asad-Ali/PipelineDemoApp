@@ -1,0 +1,5 @@
+/home/ec2-user/microservice/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/SpringRestDataConfig.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/ItemRepository.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/Item.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/CatalogApp.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-catalog/src/main/java/com/ewolff/microservice/catalog/web/CatalogController.java

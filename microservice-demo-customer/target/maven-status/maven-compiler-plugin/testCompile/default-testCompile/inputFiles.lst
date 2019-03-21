@@ -1,0 +1,5 @@
+/home/ec2-user/microservice/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerWebIntegrationTest.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerConsumerDrivenContractTest.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerTestApp.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/Customer.java
+/home/ec2-user/microservice/microservice-demo/microservice-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerClient.java
